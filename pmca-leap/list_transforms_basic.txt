@@ -1,0 +1,197 @@
+PMCA Transform list v2.0
+
+[name] 全身スケール
+[range] 0.8 1.2
+[scale] 1.0
+
+NEXT
+
+[name] 身長
+[range] 0.8 1.2
+[ENTRY] 上半身
+[length] 1.0
+[ENTRY] 右腕
+[length] 1.0
+[ENTRY] 右腕捩
+[length] 1.0
+[ENTRY] 右ひじ
+[length] 1.0
+[ENTRY] 右手捩
+[length] 1.0
+[ENTRY] 左腕
+[length] 1.0
+[ENTRY] 左腕捩
+[length] 1.0
+[ENTRY] 左ひじ
+[length] 1.0
+[ENTRY] 左手捩
+[length] 1.0
+[ENTRY] 下半身
+[length] 1.0
+[ENTRY] 右足
+[length] 1.0
+[ENTRY] 右ひざ
+[length] 1.0
+[ENTRY] 左足
+[length] 1.0
+[ENTRY] 左ひざ
+[length] 1.0
+[ENTRY] 右ｽｶｰﾄ前
+[length] 1.0
+[ENTRY] 右ｽｶｰﾄ後
+[length] 1.0
+[ENTRY] 左ｽｶｰﾄ前
+[length] 1.0
+[ENTRY] 左ｽｶｰﾄ後
+[length] 1.0
+
+NEXT
+
+[name] 胴体
+[range] 0.5 1.5
+[ENTRY] 上半身
+[length] 1.0
+[ENTRY] 下半身
+[length] 0.5
+
+NEXT
+
+[name] 腕
+[range] 0.5 1.5
+[ENTRY] 右腕
+[length] 1.0
+[ENTRY] 右腕捩
+[length] 1.0
+[ENTRY] 右ひじ
+[length] 1.0
+[ENTRY] 右手捩
+[length] 1.0
+[ENTRY] 左腕
+[length] 1.0
+[ENTRY] 左腕捩
+[length] 1.0
+[ENTRY] 左ひじ
+[length] 1.0
+[ENTRY] 左手捩
+[length] 1.0
+
+NEXT
+
+[name] 脚
+[range] 0.7 1.3
+[ENTRY] 下半身
+[length] 0.5
+[ENTRY] 右足
+[length] 1.0
+[ENTRY] 右ひざ
+[length] 1.0
+[ENTRY] 左足
+[length] 1.0
+[ENTRY] 左ひざ
+[length] 1.0
+
+NEXT
+
+[name] スカート
+[range] 0.4 1.6
+[ENTRY] 右ｽｶｰﾄ前
+[length] 1.0
+[ENTRY] 右ｽｶｰﾄ後
+[length] 1.0
+[ENTRY] 左ｽｶｰﾄ前
+[length] 1.0
+[ENTRY] 左ｽｶｰﾄ後
+[length] 1.0
+[ENTRY] 右ｽｶｰﾄ前2
+[length] 1.0
+[ENTRY] 右ｽｶｰﾄ後2
+[length] 1.0
+[ENTRY] 左ｽｶｰﾄ前2
+[length] 1.0
+[ENTRY] 左ｽｶｰﾄ後2
+[length] 1.0
+
+NEXT
+
+[name] 上半身太さ
+[range] 0.5 1.5
+[ENTRY] 上半身
+[thick] 1.0
+
+NEXT
+
+[name] 腕太さ
+[range] 0.5 1.5
+[ENTRY] 右腕
+[thick] 1.0
+[ENTRY] 右腕捩
+[thick] 1.0
+[ENTRY] 右ひじ
+[thick] 1.0
+[ENTRY] 右手捩
+[thick] 1.0
+[ENTRY] 右手首
+[length] 1.0
+[thick] 1.0
+[ENTRY] 左腕
+[thick] 1.0
+[ENTRY] 左腕捩
+[thick] 1.0
+[ENTRY] 左ひじ
+[thick] 1.0
+[ENTRY] 左手捩
+[thick] 1.0
+[ENTRY] 左手首
+[length] 1.0
+[thick] 1.0
+
+NEXT
+
+[name] 手
+[range] 0.5 1.5
+[ENTRY] 右手首
+[length] 1.0
+[thick] 1.0
+[ENTRY] 左手首
+[length] 1.0
+[thick] 1.0
+
+NEXT
+
+[name] 下半身太さ
+[range] 0.5 1.5
+[ENTRY] 下半身
+[thick] 0.5
+[ENTRY] 右足
+[thick] 1.0
+[ENTRY] 右ひざ
+[thick] 1.0
+[ENTRY] 右足首
+[length] 1.0
+[thick] 1.0
+[ENTRY] 左足
+[thick] 1.0
+[ENTRY] 左ひざ
+[thick] 1.0
+[ENTRY] 左足首
+[length] 1.0
+[thick] 1.0
+
+NEXT
+
+[name] 足サイズ
+[range] 0.5 1.5
+[ENTRY] 右足首
+[length] 1.0
+[thick] 1.0
+[ENTRY] 左足首
+[length] 1.0
+[thick] 1.0
+
+NEXT
+
+[name] 上下
+[range] -1.0 1.0
+[default] 0.0
+[pos] 0.0 1.0 0.0
+

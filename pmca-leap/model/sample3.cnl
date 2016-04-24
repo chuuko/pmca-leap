@@ -1,0 +1,75 @@
+PMCA sample3
+PMCAv0.0.6 sample3
+
+
+
+PARTS
+[Name] セーラー服上半身01(スカート,長袖)
+[Path] ./parts/ub_mt_slr001_l_sk.pmd
+[Child]
+[Name] 顔f01
+[Path] ./parts/head_mt001_1.pmd
+[Child]
+[Name] 前髪01
+[Path] ./parts/hair_mf1_mt001.pmd
+[Child]
+[Name] 後髪06_ポニーテール
+[Path] ./parts/hair_mr1_mt006.pmd
+[Child]
+None
+[Parent]
+[Parent]
+None
+None
+[Parent]
+[Name] 手01b
+[Path] ./parts/hand1_mt001b.pmd
+[Child]
+None
+[Parent]
+[Name] スカート下半身01(スカート)
+[Path] ./parts/lb_sk_mt001.pmd
+[Child]
+[Name] 靴_ローポリ
+[Path] ./parts/shoes1_mt01.pmd
+[Child]
+None
+[Parent]
+[Parent]
+None
+[Parent]
+MATERIAL
+[Name] mt_shoes1
+[Sel] 外履き
+NEXT
+[Name] mt_sock1
+[Sel] 黒
+NEXT
+[Name] mt_hair
+[Sel] 青色01 
+NEXT
+[Name] mt_ribbon1
+[Sel] 赤
+NEXT
+[Name] mt_pants
+[Sel] 白
+NEXT
+[Name] mt_eye
+[Sel] 青
+NEXT
+[Name] mt_slr1_l
+[Sel] 黒地白襟
+NEXT
+[Name] mt_skirt1
+[Sel] 黒
+NEXT
+TRANSFORM
+[Scale] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+BONES
+[Name] 
+[Length] 1.000000
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000

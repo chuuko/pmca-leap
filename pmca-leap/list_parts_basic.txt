@@ -1,0 +1,732 @@
+﻿PMCA Parts list v2.0
+
+SETDIR ./parts/
+
+[name] セーラー服上半身01(スカート,長袖)
+[comment] 普通の長袖セーラー服、縦リボン
+[type] root
+[path] ub_mt_slr001_l_sk.pmd
+[joint] head,hand,lb_sk,body_acce
+[pic] ub_mt_slr001_l_sk.png
+
+NEXT
+
+[name] セーラー服上半身01(スカート,半袖)
+[comment] 普通の半袖セーラー服、縦リボン
+[type] root
+[path] ub_mt_slr001_s_sk.pmd
+[joint] head,arm,lb_sk,body_acce
+[pic] ub_mt_slr001_s_sk.png
+
+NEXT
+
+[name] ブレザー上半身01(スカート,長袖,2ボタン)
+[comment] 普通の長袖ブレザー
+[type] root
+[path] ub_mt_blz001_l_sk.pmd
+[joint] blz_ribbon,head,hand,lb_sk,body_acce
+
+NEXT
+
+[name] ブレザー上半身02(スカート,長袖,2ボタン,前開け)
+[comment] 普通の長袖ブレザー
+[type] root
+[path] ub_mt_blz002_l_sk.pmd
+[joint] blz_ribbon,head,hand,lb_sk,body_acce
+
+NEXT
+
+[name] ブレザー上半身03(スカート,長袖,3ボタン)
+[comment] 普通の長袖ブレザー
+[type] root
+[path] ub_mt_blz003_l_sk.pmd
+[joint] blz_ribbon,head,hand,lb_sk,body_acce
+
+NEXT
+
+[name] ブレザー上半身04(スカート,長袖,3ボタン,前開け)
+[comment] 普通の長袖ブレザー
+[type] root
+[path] ub_mt_blz004_l_sk.pmd
+[joint] blz_ribbon,head,hand,lb_sk,body_acce
+
+NEXT
+
+[name] ブレザーリボン001
+[comment] リボン
+[type] blz_ribbon
+[path] blz_rbn_mt001.pmd
+[joint] 
+
+NEXT
+
+[name] ブレザーリボン002(紐タイプ)
+[comment] 紐タイプのリボン
+[type] blz_ribbon
+[path] blz_rbn_mt002.pmd
+[joint] 
+
+NEXT
+
+[name] ジャンパースカート01(長袖)
+[comment] ジャンパースカート長袖
+[type] root
+[path] ub_mt_jmpr001_l_sk.pmd
+[joint] blz_ribbon,head,hand,shoes,body_acce
+
+NEXT
+[name] 学ラン上半身01(長袖)
+[comment] 普通の学ラン
+[type] root
+[path] ub_mt_gkr001_l_sl.pmd
+[joint] head,hand,lb_sl,body_acce
+[pic] ub_mt_gkr001_l_sl.png
+
+NEXT
+
+[name] ブレザー上半身01(スラックス、長袖)
+[comment] 普通のブレザー、ネクタイ
+[type] root
+[path] ub_mt_blz001_l_sl.pmd
+[joint] head,hand,lb_sl,body_acce
+[pic] ub_mt_blz001_l_sl.png
+
+NEXT
+
+[name] Yシャツ上半身01(スラックス、半袖)
+[comment] Yシャツ
+[type] root
+[path] ub_mt_srt001_s_sl.pmd
+[joint] head,arm,lb_sl,body_acce
+[pic] ub_mt_srt001_s_sl.png
+
+NEXT
+
+[name] おばさん上半身(半袖)
+[comment] おばさんの上半身
+[type] root
+[path] ub_mt_obs001_s.pmd
+[joint] head,arm,lb_fsl,body_acce
+[pic] ub_mt_obs001_s.png
+
+NEXT
+
+[name] キャミソール上半身1
+[comment] キャミソール
+[type] root
+[path] ub_mt_cami1.pmd
+[joint] head,lb_fsl,hand_acce,body_acce
+
+NEXT
+
+[name] アクセサリ取付
+[type] root
+[joint] root,head_acce,hand_acce,body_acce
+
+NEXT
+
+[name] 顔f01
+[comment] 標準顔
+[type] head
+[path] head_mt001_1.pmd
+[joint] hair_mf1,head_acce,head_acce
+[pic] head_mt001_1.png
+
+NEXT
+
+[name] 顔f01(頂点増強)
+[comment] 標準顔
+[type] head
+[path] head_mt001_2.pmd
+[joint] hair_mf1,head_acce,head_acce
+
+NEXT
+
+[name] 顔f02
+[comment] 活発め
+[type] head
+[path] head_mt002_1.pmd
+[joint] hair_mf1,head_acce,head_acce
+[pic] head_mt002_1.png
+
+NEXT
+
+[name] 顔f03
+[comment] おとなしめ
+[type] head
+[path] head_mt003_1.pmd
+[joint] hair_mf1,head_acce,head_acce
+[pic] head_mt003_1.png
+
+NEXT
+
+[name] 顔f04
+[comment] 三角目
+[type] head
+[path] head_mt004_1.pmd
+[joint] hair_mf1,head_acce,head_acce
+
+NEXT
+
+[name] 顔f05
+[comment] きつめ
+[type] head
+[path] head_mt005_1.pmd
+[joint] hair_mf1,head_acce,head_acce
+
+NEXT
+
+[name] 顔m01
+[comment] 男の顔
+[type] head
+[path] head_mt051_1.pmd
+[joint] hair_mf1,head_acce,head_acce
+[pic] head_mt051_1.png
+
+NEXT
+
+[name] 顔m02
+[comment] 男の顔
+[type] head
+[path] head_mt052_1.pmd
+[joint] hair_mf1,head_acce,head_acce
+
+NEXT
+
+[name] おばさん顔01
+[comment] おばさんフェイス
+[type] head
+[path] head_mt101_1.pmd
+[joint] hair_mf1,head_acce,head_acce
+[pic] head_mt101_1.png
+
+NEXT
+
+[name] 前髪01
+[comment] 今までのセーラー服さんと同じ様な髪
+[type] hair_mf1
+[path] hair_mf1_mt001.pmd
+[joint] hair_mr1
+[pic] hair_mf1_mt001.png
+
+NEXT
+[name] 前髪02
+[comment] 01と反対な髪型
+[type] hair_mf1
+[path] hair_mf1_mt002.pmd
+[joint] hair_mr1
+[pic] hair_mf1_mt002.png
+
+NEXT
+
+[name] 前髪03
+[comment] 前髪を上げている髪型
+[type] hair_mf1
+[path] hair_mf1_mt003.pmd
+[joint] hair_mr1
+[pic] hair_mf1_mt003.png
+
+NEXT
+
+[name] 前髪04
+[comment] 丸っこい髪
+[type] hair_mf1
+[path] hair_mf1_mt004.pmd
+[joint] hair_mr1
+[pic] hair_mf1_mt004.png
+
+NEXT
+
+[name] 前髪05
+[comment] 二つに分けた前髪
+[type] hair_mf1
+[path] hair_mf1_mt005.pmd
+[joint] hair_mr1
+[pic] hair_mf1_mt005.png
+
+NEXT
+
+[name] 後髪01
+[comment] 少し長めの髪
+[type] hair_mr1
+[path] hair_mr1_mt001.pmd
+[joint] 
+[pic] hair_mr1_mt001.png
+
+NEXT
+
+[name] 後髪02
+[comment] 短めの髪
+[type] hair_mr1
+[path] hair_mr1_mt002.pmd
+[joint] 
+[pic] hair_mr1_mt002.png
+
+NEXT
+
+[name] 後髪03
+[comment] 上の方でひとまとめ
+[type] hair_mr1
+[path] hair_mr1_mt003.pmd
+[joint] 
+[pic] hair_mr1_mt003.png
+
+NEXT
+
+[name] 後髪04
+[comment] 短めで丸っこい髪
+[type] hair_mr1
+[path] hair_mr1_mt004.pmd
+[joint] 
+[pic] hair_mr1_mt004.png
+
+NEXT
+
+[name] 後髪05_ツインテール
+[comment] ツインテール
+[type] hair_mr1
+[path] hair_mr1_mt005.pmd
+[joint] 
+[pic] hair_mr1_mt005.png
+
+NEXT
+
+[name] 後髪06_ポニーテール
+[comment] ポニーテール
+[type] hair_mr1
+[path] hair_mr1_mt006.pmd
+[joint] 
+[pic] hair_mr1_mt006.png
+
+NEXT
+
+[name] 後髪07_ハーフアップ
+[comment] 単純なハーフアップ
+[type] hair_mr1
+[path] hair_mr1_mt007.pmd
+[joint] 
+
+NEXT
+[name] 髪101_男子髪
+[comment] 男子用の髪
+[type] hair_mf1
+[path] hair_mf1_mt101.pmd
+[joint] 
+[pic] hair_mf1_mt101.png
+
+NEXT
+
+[name] 髪102_男子髪
+[comment] 男子用の髪
+[type] hair_mf1
+[path] hair_mf1_mt102.pmd
+[joint] 
+
+NEXT
+
+[name] 腕01b
+[comment] ボーン制御の指をもつローポリ腕
+[type] arm
+[path] arm1_mt001b.pmd
+[joint] hand_acce
+[pic] arm1_mt001b.png
+
+NEXT
+
+[name] 腕01s
+[comment] スキン制御の指をもつローポリ腕
+[type] arm
+[path] arm1_mt001s.pmd
+[joint] hand_acce
+[pic] arm1_mt001s.png
+
+NEXT
+
+[name] 手01b
+[comment] ボーン制御の指をもつローポリ手
+[type] hand
+[path] hand1_mt001b.pmd
+[joint] hand_acce
+[pic] hand1_mt001b.png
+
+NEXT
+
+[name] 手01s
+[comment] スキン制御の指をもつローポリ手
+[type] hand
+[path] hand1_mt001s.pmd
+[joint] hand_acce
+[pic] hand1_mt001s.png
+
+NEXT
+
+[name] スカート下半身01(スカート)
+[comment] スカート下半身
+[type] lb_sk
+[path] lb_sk_mt001.pmd
+[joint] shoes
+[pic] lb_sk_mt001.png
+
+NEXT
+
+[name] スカート下半身02(スカート・ニーソ)
+[comment] スカート下半身
+[type] lb_sk
+[path] lb_sk_mt002.pmd
+[joint] shoes
+[pic] lb_sk_mt002.png
+
+NEXT
+
+[name] スカート下半身03(膝丈スカート)
+[comment] スカート下半身
+[type] lb_sk
+[path] lb_sk_mt003.pmd
+[joint] shoes
+
+NEXT
+
+[name] スラックス下半身01
+[comment] スラックス下半身
+[type] lb_sl
+[path] lb_sl_mt001.pmd
+[joint] shoes
+[pic] lb_sl_mt001.png
+
+NEXT
+
+[name] おばさん下半身01
+[comment] おばさん下半身
+[type] lb_fsl
+[path] lb_obs_mt001.pmd
+[joint] shoes
+[pic] lb_obs_mt001.png
+
+NEXT
+
+[name] ショートパンツ
+[comment] ショートパンツ
+[type] lb_fsl
+[path] lb_sp_mt001.pmd
+[joint] shoes
+
+NEXT
+
+[name] 靴_ローポリ
+[comment] 頂点数の少ない靴
+[type] shoes
+[path] shoes1_mt01.pmd
+[joint] 
+[pic] shoes1_mt01.png
+
+NEXT
+
+[name] 靴_ノーマルポリ
+[comment] 頂点数が普通な靴
+[type] shoes
+[path] shoes1_mt02.pmd
+[joint] 
+[pic] shoes1_mt02.png
+
+NEXT
+
+[name] 靴_ノーマルポリ2
+[comment] 頂点数が普通な靴
+[type] shoes
+[path] shoes1_mt03.pmd
+[joint] 
+[pic] shoes1_mt03.png
+
+NEXT
+
+[name] アホ毛1
+[comment] 頭から生えてるアレ
+[type] head_acce
+[path] hdac_mt_ahoge1.pmd
+[joint] head_acce
+[pic] hdac_mt_ahoge1.png
+
+NEXT
+
+[name] ヘアバンド
+[comment] カチューシャともいう
+[type] head_acce
+[path] hdac_mt_hairband1_01.pmd
+[joint] head_acce
+[pic] hdac_mt_hairband1_01.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] メガネ1
+[comment] 丸っこい眼鏡
+[type] head_acce
+[path] hdac_mt_glasses1_01.pmd
+[joint] head_acce
+[pic] hdac_mt_glasses1_01.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] メガネ2
+[comment] 丸っこい眼鏡、逆ナイロール
+[type] head_acce
+[path] hdac_mt_glasses1_02.pmd
+[joint] head_acce
+[pic] hdac_mt_glasses1_02.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] メガネ3
+[comment] 丸っこい眼鏡、少し大き目
+[type] head_acce
+[path] hdac_mt_glasses1_03.pmd
+[joint] head_acce
+[pic] hdac_mt_glasses1_03.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] メガネ4
+[comment] 眼鏡、逆ナイロール
+[type] head_acce
+[path] hdac_mt_glasses1_04.pmd
+[joint] head_acce
+[pic] hdac_mt_glasses1_04.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] メガネ5
+[comment] 直線的な眼鏡
+[type] head_acce
+[path] hdac_mt_glasses1_05.pmd
+[joint] head_acce
+[pic] hdac_mt_glasses1_05.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] メガネ6
+[comment] 直線的な眼鏡、少し細め
+[type] head_acce
+[path] hdac_mt_glasses1_06.pmd
+[joint] head_acce
+[pic] hdac_mt_glasses1_06.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] リボン
+[comment] 頭につけるリボン
+[type] head_acce
+[path] hdac_mt_ribbon.pmd
+[joint] head_acce
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] ウシャンカ1
+[comment] ロシア帽ともいう、あたたかい
+[type] head_acce
+[path] hdac_mt_ushanka1.pmd
+[joint] head_acce
+[pic] hdac_mt_ushanka1.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] ウシャンカ2
+[comment] ロシア帽、バッジ付き
+[type] head_acce
+[path] hdac_mt_ushanka2.pmd
+[joint] head_acce
+[pic] hdac_mt_ushanka2.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] 猫耳01
+[comment] ねこみみ
+[type] head_acce
+[path] hdac_mt_catear01.pmd
+[joint] head_acce
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+
+[name] 猫
+[comment] 頭の上の猫
+[type] head_acce
+[path] hdac_mt_cat01.pmd
+[joint] head_acce
+
+NEXT
+
+[name] きのこ01
+[comment] きのこ
+[type] head_acce
+[path] hdac_mt_mr01.pmd
+[joint] head_acce
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/setchildof.py 頭
+
+NEXT
+[name] 漫符
+[comment] モデルに漫符を追加する
+[type] head_acce
+[path] hdac_mt_manga_symbol1.pmd
+[joint] head_acce
+[pic] hdac_mt_manga_symbol1.png
+
+NEXT
+
+[name] 手アクセサリ
+[comment] 手に持つアクセサリ用のダミーボーン
+[type] hand_acce
+[path] hndac_mt_HandDummy.pmd
+[joint] hand_acce
+[pic] hndac_mt_HandDummy.png
+
+NEXT
+
+[name] スクールバッグ1(右手)
+[comment] 手持ちの学校カバン
+[type] hand_acce
+[path] hndac_mt_schoolbag1.pmd
+[joint] hand_acce
+[pic] hndac_mt_schoolbag1.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/parts_move.py -6.0 0.0 0.0
+[script_pre] scripts/setchildof.py 右手首
+
+NEXT
+
+[name] スクールバッグ1(左手)
+[comment] 手持ちの学校カバン
+[type] hand_acce
+[path] hndac_mt_schoolbag1.pmd
+[joint] hand_acce
+[pic] hndac_mt_schoolbag1.png
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/parts_move.py 6.0 0.0 0.0
+[script_pre] scripts/setchildof.py 左手首
+
+NEXT
+
+[name] S&W_M586(右手)
+[comment] 357マグナム弾を使用するリボルバー
+[type] hand_acce
+[path] hndac_mt_m586.pmd
+[joint] hand_acce
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/parts_move.py -6.0 0.0 0.0
+[script_pre] scripts/setchildof.py 右手首
+
+
+NEXT
+
+[name] S&W_M586(左手)
+[comment] 357マグナム弾を使用するリボルバー
+[type] hand_acce
+[path] hndac_mt_m586.pmd
+[joint] hand_acce
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/parts_move.py 6.0 0.0 0.0
+[script_pre] scripts/setchildof.py 左手首
+
+NEXT
+
+[name] 手錠1(右手)
+[comment] チェーン型の手錠
+[type] hand_acce
+[path] hndac_mt_handcuffs1.pmd
+[joint] hand_acce
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/parts_move.py -6.0 11.0 0.0
+[script_pre] scripts/setchildof.py 右手首
+
+NEXT
+
+[name] 手錠1(左手)
+[comment] チェーン型の手錠
+[type] hand_acce
+[path] hndac_mt_handcuffs1.pmd
+[joint] hand_acce
+[script_pre] scripts/nomarge.py
+[script_pre] scripts/parts_move.py 6.0 11.0 0.0
+[script_pre] scripts/setchildof.py 左手首
+
+NEXT
+
+[name] 全親ボーン
+[comment] 全親ボーンを追加する
+[type] body_acce
+[path] bdac_mt_base.pmd
+[joint] body_acce
+[script_post] scripts/set_basebone.py 全ての親
+
+NEXT
+
+[name] 腕章1
+[comment] 腕章
+[type] body_acce
+[path] bdac_mt_armband1.pmd
+[joint] body_acce
+[pic] bdac_mt_armband1.png
+
+NEXT
+
+[name] リュックサック1
+[comment] リュックサック
+[type] body_acce
+[path] bdac_mt_knapsack1.pmd
+[joint] body_acce
+
+NEXT
+
+[name] エプロン
+[comment] おばさん向けエプロン、ほかのモデルではめり込む可能性大
+[type] body_acce
+[path] bdac_mt_apron1.pmd
+[joint] body_acce
+[pic] bdac_mt_apron1.png
+
+NEXT
+
+[name] マフラー1
+[comment] 防寒具
+[type] body_acce
+[path] bdac_mt_muffler1.pmd
+[joint] body_acce
+[pic] bdac_mt_muffler1.png
+
+NEXT
+
+[name] ねじ回し
+[comment] 背中についてるねじ回し
+[type] body_acce
+[path] bdac_mt_wind.pmd
+[joint] body_acce
+
+NEXT
+
+[name] スカート追加剛体
+[comment] スカートのつき抜けの防止する追加の剛体
+[type] body_acce
+[path] bdac_mt_additional_rb_sk.pmd
+[joint] body_acce
+[pic] bdac_mt_additional_rb_sk.png
+

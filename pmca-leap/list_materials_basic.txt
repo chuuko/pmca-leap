@@ -1,0 +1,598 @@
+PMCA Materials list v2.0
+
+SETDIR ./parts/
+
+[name] mt_hair
+[comment] 髪の色
+
+[ENTRY] 青色01 
+[tex]	mt_hair_bl01.png
+[toon] 6 toon_mt_hair_bl01.bmp
+[diff_rgb] 0.80 0.80 0.80
+[spec_rgb] 0.08 0.22 0.37
+[mirr_rgb] 0.37 0.65 0.63
+[author] mato
+
+[ENTRY] グレー01
+[tex] mt_hair_gr01.png
+[diff_rgb] 0.800000 0.800000 0.800000
+[spec_rgb] 0.240000 0.240000 0.240000
+[mirr_rgb] 0.470000 0.470000 0.470000
+[author] mato
+
+[ENTRY] 茶髪01
+[tex] mt_hair_br01.png
+[toon] 6 toon_mt_hair_br01.bmp
+[diff_rgb] 0.800000 0.800000 0.800000
+[spec_rgb] 0.380000 0.240000 0.070000
+[mirr_rgb] 0.650000 0.470000 0.360000
+[author] mato
+
+[ENTRY] 茶髪02
+[tex] mt_hair_br02.png
+[diff_rgb] 0.800000 0.800000 0.800000
+[spec_rgb] 0.380000 0.240000 0.070000
+[mirr_rgb] 0.400000 0.300000 0.200000
+[toon] 6 toon_mt_hair_br01.bmp
+[author] mato
+
+NEXT
+
+[name] mt_hair_m
+[comment] 髪の色
+
+[ENTRY] 青色01
+[tex] mt_hair_m_bl01.png
+[diff_rgb] 0.800000 0.800000 0.800000
+[spec_rgb] 0.080000 0.220000 0.370000
+[mirr_rgb] 0.370000 0.650000 0.630000
+[toon] 6 toon_mt_hair_bl01.bmp
+[author] mato
+
+[ENTRY] グレー01
+[tex] mt_hair_m_gr01.png
+[diff_rgb] 0.800000 0.800000 0.800000
+[spec_rgb] 0.240000 0.240000 0.240000
+[mirr_rgb] 0.470000 0.470000 0.470000
+[author] mato
+
+[ENTRY] 茶髪01
+[tex] mt_hair_m_br01.png
+[diff_rgb] 0.800000 0.800000 0.800000
+[spec_rgb] 0.380000 0.240000 0.070000
+[mirr_rgb] 0.650000 0.470000 0.360000
+[toon] 6 toon_mt_hair_br01.bmp
+[author] mato
+
+NEXT
+
+[name] mt_glasses_frame
+[comment] 眼鏡の枠の材質
+
+[ENTRY] 赤
+[diff_rgb] 0.800000 0.000000 0.240000
+[spec_rgb] 0.420000 0.120000 0.000000
+[mirr_rgb] 0.740000 0.000000 0.000000
+
+[ENTRY] 緑
+[diff_rgb] 0.130000 0.800000 0.000000
+[spec_rgb] 0.000000 0.420000 0.330000
+[mirr_rgb] 0.000000 0.740000 0.110000
+
+[ENTRY] 青
+[diff_rgb] 0.080000 0.000000 0.800000
+[spec_rgb] 0.000000 0.220000 0.420000
+[mirr_rgb] 0.000000 0.150000 0.740000
+
+NEXT
+
+[name] mt_hairband
+[comment] ヘアバンドの材質
+
+[ENTRY] 黒
+[diff_rgb] 0.110000 0.110000 0.130000
+[spec_rgb] 0.170000 0.170000 0.170000
+[mirr_rgb] 0.110000 0.110000 0.120000
+
+[ENTRY] 緑
+[diff_rgb] 0.130000 0.800000 0.000000
+[spec_rgb] 0.000000 0.420000 0.330000
+[mirr_rgb] 0.000000 0.740000 0.110000
+
+[ENTRY] 青
+[diff_rgb] 0.080000 0.000000 0.800000
+[spec_rgb] 0.000000 0.220000 0.420000
+[mirr_rgb] 0.000000 0.150000 0.740000
+
+[ENTRY] 赤
+[diff_rgb] 0.800000 0.000000 0.240000
+[spec_rgb] 0.420000 0.120000 0.000000
+[mirr_rgb] 0.740000 0.000000 0.000000
+
+NEXT
+
+[name] mt_pants
+[comment] ぱんつ
+
+[ENTRY] ブルマ
+[tex] mt_p01.png
+[author] mato
+
+[ENTRY] 水色の縞
+[tex] mt_p02.png
+[author] mato
+
+[ENTRY] 白
+[tex] mt_p03.png
+[author] mato
+
+NEXT
+
+[name] mt_skirt1
+[comment] スカート
+
+[ENTRY] 紺色
+[tex] mt_skirt1_01.png
+[author] mato
+
+[ENTRY] 黒
+[tex] mt_skirt1_02.png
+[author] mato
+
+[ENTRY] ベージュっぽいチェック
+[tex] mt_skirt1_03.png
+[author] mato
+
+[ENTRY] 青っぽいチェック
+[tex] mt_skirt1_04.png
+[author] mato
+
+[ENTRY] 黒地赤白線チェック
+[tex] mt_skirt1_05.png
+[author] mato
+
+[ENTRY] 赤地白黒線チェック
+[tex] mt_skirt1_06.png
+[author] mato
+
+[ENTRY] グレーっぽいチェック
+[tex] mt_skirt1_07.png
+[author] mato
+
+NEXT
+
+[name] mt_eye
+[comment] 目の色
+
+[ENTRY] 青
+[tex] mt_eye_bl01.png
+[author] mato
+
+[ENTRY] 青02
+[tex] mt_eye_bl02.png
+[author] mato
+
+[ENTRY] 青03
+[tex] mt_eye_bl03.png
+[author] mato
+
+[ENTRY] 青04（緑より）
+[tex] mt_eye_bl04.png
+[author] mato
+
+[ENTRY] グレー
+[tex] mt_eye_gr01.png
+[author] mato
+
+[ENTRY] グレー02
+[tex] mt_eye_gr02.png
+[author] mato
+
+[ENTRY] 茶色
+[tex] mt_eye_br01.png
+[author] mato
+
+[ENTRY] 茶色02
+[tex] mt_eye_br02.png
+[author] mato
+
+[ENTRY] 茶色03
+[tex] mt_eye_br03.png
+[author] mato
+
+NEXT
+
+[name] mt_sock1
+[comment] 靴下
+
+[ENTRY] 白
+[tex] mt_sock1_01.png
+[author] mato
+
+[ENTRY] 黒
+[tex] mt_sock1_02.png
+[author] mato
+
+[ENTRY] グレー
+[tex] mt_sock1_03.png
+[author] mato
+
+[ENTRY] 紺
+[tex] mt_sock1_06.png
+[author] mato
+
+[ENTRY] 縞（白黒）
+[tex] mt_sock1_04.png
+[author] mato
+
+[ENTRY] 縞（ピンク黒）
+[tex] mt_sock1_05.png
+[author] mato
+
+NEXT
+
+[name] mt_shoes1
+[comment] 靴
+
+[ENTRY] 外履き
+[tex] mt_shoes1_01.png
+[author] mato
+
+[ENTRY] 上履き
+[tex] mt_shoes1_02.png
+[author] mato
+
+NEXT
+
+[name] mt_slr1_l
+[comment] 長袖セーラー服の色
+
+[ENTRY] 紺色
+[tex] mt_slr1_l_01.png
+[author] mato
+
+[ENTRY] 黒
+[tex] mt_slr1_l_02.png
+[author] mato
+
+[ENTRY] 黒地白襟
+[tex] mt_slr1_l_03.png
+[author] mato
+
+NEXT
+
+[name] mt_slr1_s
+[comment] 半袖袖セーラー服の色
+
+[ENTRY] 紺色
+[tex] mt_slr1_s_01.png
+[author] mato
+
+[ENTRY] 黒
+[tex] mt_slr1_s_02.png
+[author] mato
+
+[ENTRY] 黒地白襟
+[tex] mt_slr1_s_03.png
+[author] mato
+
+NEXT
+
+[name] mt_blz1_l
+[comment] 長袖ブレザーのテクスチャ
+
+[ENTRY] 黒
+[tex] mt_blz1_l_01.png
+[author] mato
+
+[ENTRY] グレー
+[tex] mt_blz1_l_02.png
+[author] mato
+
+NEXT
+
+[name] mt_jumper1
+[comment] 長袖ジャンスカのテクスチャ
+
+[ENTRY] 紺
+[tex] mt_jumper1_01.png
+[author] mato
+
+[ENTRY] 黒
+[tex] mt_jumper1_02.png
+[author] mato
+
+NEXT
+
+[name] mt_srt2
+[comment] 長袖ブレザー下シャツのテクスチャ
+
+[ENTRY] 無地白
+[tex] mt_srt2_01.png
+[author] mato
+
+[ENTRY] 青無地ネクタイ
+[tex] mt_srt2_02.png
+[author] mato
+
+[ENTRY] ストライプネクタイ
+[tex] mt_srt2_03.png
+[author] mato
+
+[ENTRY] 紺ベスト
+[tex] mt_srt2_04.png
+[author] mato
+
+NEXT
+
+[name] mt_ribbon1
+[comment] リボンの色
+
+[ENTRY] 赤
+[tex] mt_ribbon1_01.png
+[author] mato
+
+[ENTRY] シャンパンゴールド
+[tex] mt_ribbon1_02.png
+[author] mato
+
+NEXT
+
+[name] mt_ribbon2
+[comment] リボンの色
+
+[ENTRY] 赤無地
+[tex] mt_ribbon2_01.png
+[author] mato
+
+[ENTRY] 青っぽいストライプ
+[tex] mt_ribbon2_02.png
+[author] mato
+
+NEXT
+
+[name] mt_ribbon3
+[comment] リボンの色
+
+[ENTRY] 赤
+[diff_rgb] 1 0.03529412 0.03529412
+[spec_rgb] 0.6745098 0.2352941 0.2352941
+[mirr_rgb] 0.2862745 0.1372549 0.1372549
+
+[ENTRY] 青
+[diff_rgb] 0.03529412 0.4901961 1
+[spec_rgb] 0 0.1686275 0.4156863
+[mirr_rgb] 0.2039216 0.2745098 0.5137255
+
+[ENTRY] 緑
+[diff_rgb] 0.3333333 0.8509804 0.1843137
+[spec_rgb] 0.2352941 0.6862745 0.2196078
+[mirr_rgb] 0.2862745 0.2784314 0.1372549
+
+NEXT
+[name] mt_slacks1
+[comment] スラックスのテクスチャ
+
+[ENTRY] グレー
+[tex] mt_slacks1_01.png
+[author] mato
+
+[ENTRY] ベージュ
+[tex] mt_slacks1_02.png
+[author] mato
+
+NEXT
+
+[name] mt_armband1
+[comment] 腕章のテクスチャ
+
+[ENTRY] 風紀委員会
+[tex] mt_armband1_01.png
+[author] mato
+
+[ENTRY] 団長
+[tex] mt_armband1_02.png
+[author] mato
+
+[ENTRY] 交通整理員
+[tex] mt_armband1_03.png
+[author] mato
+
+NEXT
+
+[name] mt_knapsack1
+[comment] リュックサックのテクスチャ
+
+[ENTRY] 青、学校指定
+[tex] mt_knapsack1_01.png
+[author] mato
+
+[ENTRY] 赤+白十字
+[tex] mt_knapsack1_02.png
+[author] mato
+
+NEXT
+[name] mt_Ushanka
+[comment] ウシャンカのテクスチャ
+
+[ENTRY] 普通
+[tex] mt_Ushanka1.png
+[author] mato
+
+[ENTRY] 黒っぽい
+[tex] mt_Ushanka2.png
+[author] mato
+
+NEXT
+
+[name] mt_mr01
+[comment] きのこのテクスチャ
+
+[ENTRY] 赤
+[tex] mt_mr01_01.png
+[author] mato
+
+[ENTRY] こげ茶
+[tex] mt_mr01_02.png
+[author] mato
+
+[ENTRY] 青
+[tex] mt_mr01_03.png
+[author] mato
+
+NEXT
+[name] mt_muffler1
+[comment] マフラーのテクスチャ
+
+[ENTRY] 黒地に白のチェック
+[tex] mt_muffler1_01.png
+[author] mato
+
+[ENTRY] クリーム色
+[tex] mt_muffler1_02.png
+[author] mato
+
+NEXT
+
+[name] mt_hada_obs
+[comment] 肌のテクスチャ
+
+[ENTRY] シワ少なめ
+[tex] mt_hada_obs1.png
+[author] mato
+
+[ENTRY] シワ多め
+[tex] mt_hada_obs2.png
+[author] mato
+
+[ENTRY] シワなし
+[tex] mt_hada.png
+[author] mato
+
+NEXT
+
+[name] mt_obs1
+[comment] 服
+
+[ENTRY] 緑ストライプ
+[tex] mt_sima1_01.png
+[author] mato
+
+[ENTRY] グレーストライプ
+[tex] mt_sima1_02.png
+[author] mato
+
+NEXT
+
+[name] mt_cami1
+[comment] キャミソール
+
+[ENTRY] 青ストライプ
+[tex] mt_cami1_01.png
+[author] mato
+
+[ENTRY] オレンジストライプ
+[tex] mt_cami1_02.png
+[author] mato
+
+[ENTRY] 赤ストライプ
+[tex] mt_cami1_03.png
+[author] mato
+
+NEXT
+
+[name] mt_spns1
+[comment] ショートパンツ
+
+[ENTRY] デニム
+[tex] mt_spns1_01.png
+[author] mato
+
+[ENTRY] 青運動着
+[tex] mt_spns1_a1.png
+[author] mato
+
+[ENTRY] 緑運動着
+[tex] mt_spns1_a2.png
+[author] mato
+
+[ENTRY] 赤運動着
+[tex] mt_spns1_a3.png
+[author] mato
+
+NEXT
+
+[name] mt_sock2
+[comment] 靴下
+
+[ENTRY] オレンジ
+[tex] mt_sock2_01.png
+[author] mato
+
+[ENTRY] 青
+[tex] mt_sock2_02.png
+[author] mato
+
+NEXT
+
+[name] mt_gunmetal01
+
+[ENTRY] ガンブルー
+[diff_rgb] 0.04313726 0.05882353 0.09019608
+[spec_rgb] 1 1 1
+[mirr_rgb] 0.000000 0.007843138 0.05098039
+
+[ENTRY] ステンレス
+[diff_rgb] 0.8745098 0.8588235 0.8588235
+[spec_rgb] 1 1 1
+[mirr_rgb] 0.1568628 0.1764706 0.1843137
+
+NEXT
+
+[name] mt_gungrip01
+
+[ENTRY] 木目調
+[tex] mt_wood01.png
+[diff_rgb] 0.8509804 0.4117647 0.1490196
+[spec_rgb] 0.9764706 0.3764706 0.3764706
+[mirr_rgb] 0.1686275 0 0
+[author] mato
+
+[ENTRY] ラバー
+[diff_rgb] 0.03921569 0.03921569 0.03921569
+[spec_rgb] 0.07843138 0.07843138 0.07843138
+[mirr_rgb] 0.000000 0.000000 0.000000
+
+NEXT
+
+[name] mt_cat1
+[comment] 猫
+
+[ENTRY] ダークグレー
+[tex] mt_cat1_01.png
+[author] mato
+
+[ENTRY] 白
+[tex] mt_cat1_02.png
+[diff_rgb] 0.8 0.8 0.8
+[spec_rgb] 0.2 0.2 0.2
+[mirr_rgb] 0.8 0.8 0.8
+[author] mato
+
+NEXT
+
+[name] mt_cateye1
+[comment] 猫目
+
+[ENTRY] 緑
+[tex] mt_cateye1_01.png
+[author] mato
+
+[ENTRY] 青
+[tex] mt_cateye1_02.png
+[author] mato
+
+[ENTRY] 赤
+[tex] mt_cateye1_03.png
+[author] mato
+

@@ -1,0 +1,168 @@
+PMCA sample1
+PMCAv0.0.6 sample1
+
+
+PARTS
+[Name] セーラー服上半身01(スカート,長袖)
+[Path] ./parts/ub_mt_slr001_l_sk.pmd
+[Child]
+None
+None
+None
+None
+[Parent]
+MATERIAL
+[Name] mt_srt2
+[Sel] 無地白
+NEXT
+[Name] mt_cami1
+[Sel] 青ストライプ
+NEXT
+[Name] mt_sock1
+[Sel] 白
+NEXT
+[Name] mt_slr1_l
+[Sel] 黒地白襟
+NEXT
+[Name] mt_eye
+[Sel] 青
+NEXT
+[Name] mt_pants
+[Sel] ブルマ
+NEXT
+[Name] mt_obs1
+[Sel] 緑ストライプ
+NEXT
+[Name] mt_shoes1
+[Sel] 外履き
+NEXT
+[Name] mt_slr1_s
+[Sel] 紺色
+NEXT
+[Name] mt_ribbon1
+[Sel] 赤
+NEXT
+[Name] mt_jumper1
+[Sel] 紺
+NEXT
+[Name] mt_blz1_l
+[Sel] 黒
+NEXT
+[Name] mt_skirt1
+[Sel] 紺色
+NEXT
+[Name] mt_hair
+[Sel] 青色01 
+NEXT
+TRANSFORM
+[Scale] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+BONES
+[Name] 上半身
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 右腕
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 右腕捩
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 右ひじ
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 右手捩
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 左腕
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 左腕捩
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 左ひじ
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 左手捩
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 下半身
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 右足
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 右ひざ
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 左足
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 左ひざ
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 右ｽｶｰﾄ前
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 右ｽｶｰﾄ後
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 左ｽｶｰﾄ前
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
+NEXT
+[Name] 左ｽｶｰﾄ後
+[Length] 0.905785
+[Thick] 1.000000
+[Pos] 0.000000 0.000000 0.000000
+[Rot] 0.000000 0.000000 0.000000
